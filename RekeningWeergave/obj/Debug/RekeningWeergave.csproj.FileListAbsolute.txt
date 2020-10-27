@@ -1,0 +1,113 @@
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe.config
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.Properties.Resources.resources
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.GenerateResource.Cache
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CoreCompileInputs.cache
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.exe
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe.config
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.Form1.resources
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.Properties.Resources.resources
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.GenerateResource.Cache
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CoreCompileInputs.cache
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.exe
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.dll
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.dll
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csprojResolveAssemblyReference.cache
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe.config
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.pdb
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.dll
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.dll
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.pdb
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.pdb
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csprojResolveAssemblyReference.cache
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.Properties.Resources.resources
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.GenerateResource.cache
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CoreCompileInputs.cache
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CopyComplete
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.exe
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.pdb
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.RekeningForm.resources
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\Logica.dll
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\Chapoo applicatie\RekeningWeergave\bin\Debug\Logica.pdb
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe.config
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.pdb
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.dll
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\bin\Debug\Logica.dll
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.dll
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.pdb
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\bin\Debug\Logica.pdb
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.pdb
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csprojResolveAssemblyReference.cache
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.RekeningForm.resources
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.Properties.Resources.resources
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.GenerateResource.cache
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CoreCompileInputs.cache
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CopyComplete
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.exe
+C:\Users\Yari Joosten\Desktop\test\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.pdb
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe.config
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.exe
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\RekeningWeergave.pdb
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.dll
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\Logica.dll
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.dll
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.pdb
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\Logica.pdb
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.pdb
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csprojResolveAssemblyReference.cache
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.RekeningForm.resources
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.Properties.Resources.resources
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.GenerateResource.cache
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CoreCompileInputs.cache
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CopyComplete
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.exe
+C:\Users\Yari Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.dll
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\Logica.dll
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.dll
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\DAL.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\Logica.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\bin\Debug\Model.pdb
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.csprojResolveAssemblyReference.cache
+C:\Users\Joosten\Desktop\Chapoo applicatie\RekeningWeergave\obj\Debug\RekeningWeergave.RekeningForm.resources
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\bin\Debug\RekeningWeergave.exe.config
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\bin\Debug\RekeningWeergave.exe
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\bin\Debug\RekeningWeergave.pdb
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\bin\Debug\DAL.dll
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\bin\Debug\Logica.dll
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\bin\Debug\Model.dll
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\bin\Debug\DAL.pdb
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\bin\Debug\Logica.pdb
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\bin\Debug\Model.pdb
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\obj\Debug\RekeningWeergave.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\obj\Debug\RekeningWeergave.RekeningForm.resources
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\obj\Debug\RekeningWeergave.Properties.Resources.resources
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\obj\Debug\RekeningWeergave.exe
+C:\Users\David\Desktop\Chapoo Yari\RekeningWeergave\obj\Debug\RekeningWeergave.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\bin\Debug\RekeningWeergave.exe.config
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\bin\Debug\RekeningWeergave.exe
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\bin\Debug\RekeningWeergave.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\bin\Debug\DAL.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\bin\Debug\Logica.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\bin\Debug\Model.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\bin\Debug\DAL.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\bin\Debug\Logica.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\bin\Debug\Model.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\obj\Debug\RekeningWeergave.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\obj\Debug\RekeningWeergave.RekeningForm.resources
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\obj\Debug\RekeningWeergave.Properties.Resources.resources
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\obj\Debug\RekeningWeergave.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\obj\Debug\RekeningWeergave.exe
+C:\Users\David\Desktop\Chapoo Samengevoegd\RekeningWeergave\obj\Debug\RekeningWeergave.pdb

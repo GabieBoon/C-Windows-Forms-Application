@@ -1,0 +1,16 @@
+C:\Users\David\source\repos\Project Chapoo\DAL\bin\Debug\DAL.dll
+C:\Users\David\source\repos\Project Chapoo\DAL\bin\Debug\DAL.pdb
+C:\Users\David\source\repos\Project Chapoo\DAL\bin\Debug\Model.dll
+C:\Users\David\source\repos\Project Chapoo\DAL\bin\Debug\Model.pdb
+C:\Users\David\source\repos\Project Chapoo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\Project Chapoo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Project Chapoo\DAL\obj\Debug\DAL.dll
+C:\Users\David\source\repos\Project Chapoo\DAL\obj\Debug\DAL.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\DAL\bin\Debug\DAL.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\DAL\bin\Debug\DAL.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\DAL\bin\Debug\Model.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\DAL\bin\Debug\Model.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Chapoo Samengevoegd\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Chapoo Samengevoegd\DAL\obj\Debug\DAL.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\DAL\obj\Debug\DAL.pdb

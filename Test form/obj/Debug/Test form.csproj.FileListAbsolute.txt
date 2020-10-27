@@ -1,0 +1,19 @@
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Test form.exe.config
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Test form.exe
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Test form.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test form.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test_form.Properties.Resources.resources
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test form.csproj.GenerateResource.Cache
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test form.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test form.exe
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test form.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Logica.dll
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Model.dll
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Logica.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Model.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\DAL.dll
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\DAL.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test_form.Login_Test.resources
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Ober_beginscherm.exe
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Ober_beginscherm.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Ober_beginscherm.exe.config

@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\Project Chapoo\Ober_beginscherm\bin\Debug\Ober_beginscherm.exe.config
+C:\Users\David\source\repos\Project Chapoo\Ober_beginscherm\bin\Debug\Ober_beginscherm.exe
+C:\Users\David\source\repos\Project Chapoo\Ober_beginscherm\bin\Debug\Ober_beginscherm.pdb
+C:\Users\David\source\repos\Project Chapoo\Ober_beginscherm\obj\Debug\Ober_beginscherm.OberBeginForm.resources
+C:\Users\David\source\repos\Project Chapoo\Ober_beginscherm\obj\Debug\Ober_beginscherm.Properties.Resources.resources
+C:\Users\David\source\repos\Project Chapoo\Ober_beginscherm\obj\Debug\Ober_beginscherm.csproj.GenerateResource.Cache
+C:\Users\David\source\repos\Project Chapoo\Ober_beginscherm\obj\Debug\Ober_beginscherm.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Project Chapoo\Ober_beginscherm\obj\Debug\Ober_beginscherm.exe
+C:\Users\David\source\repos\Project Chapoo\Ober_beginscherm\obj\Debug\Ober_beginscherm.pdb

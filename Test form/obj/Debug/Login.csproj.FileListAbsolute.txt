@@ -1,0 +1,51 @@
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Test form.exe.config
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Test form.exe
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Test form.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Logica.dll
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Model.dll
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\DAL.dll
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Logica.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\Model.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\DAL.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test_form.LoginForm.resources
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test_form.Properties.Resources.resources
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test form.exe
+C:\Users\David\source\repos\Project Chapoo\Test form\obj\Debug\Test form.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\OberTafeloverzicht.exe
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\OberTafeloverzicht.pdb
+C:\Users\David\source\repos\Project Chapoo\Test form\bin\Debug\OberTafeloverzicht.exe.config
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\obj\Debug\Test_form.LoginForm.resources
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\obj\Debug\Test_form.Properties.Resources.resources
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\obj\Debug\Test form.exe
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\obj\Debug\Test form.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Test form.exe.config
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Test form.exe
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Test form.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Logica.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Model.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\OberTafeloverzicht.exe
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\DAL.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Logica.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Model.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\OberTafeloverzicht.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\OberTafeloverzicht.exe.config
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\DAL.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\BarmanForm.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Keuken-Kok.dll
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\BarmanForm.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Keuken-Kok.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Bediening.exe
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Bediening.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Bediening.exe.config
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\RekeningWeergave.exe
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\RekeningWeergave.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\RekeningWeergave.exe.config
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Bestelling_Bevestigen.exe
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Bestelling_Bevestigen.pdb
+C:\Users\David\Desktop\Chapoo Samengevoegd\Test form\bin\Debug\Bestelling_Bevestigen.exe.config
